@@ -1,6 +1,6 @@
 {
   "name": "@yourusername/shuffle-array",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A small library that takes an array as input and returns a new array that is shuffled.",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
