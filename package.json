@@ -1,6 +1,6 @@
 {
-  "name": "@yourusername/shuffle-array",
-  "version": "0.1.1",
+  "name": "@kaltmax/shuffle-array",
+  "version": "0.1.2",
   "description": "A small library that takes an array as input and returns a new array that is shuffled.",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
@@ -13,19 +13,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/shuffle-array.git"
+    "url": "git+https://github.com/kaltmax/shuffle-array.git"
   },
   "keywords": [
     "array",
     "shuffle",
     "functional"
   ],
-  "author": "your name <your-email@email.com> (https://yourwebsite.com)",
+  "author": "kaltmax <your-email@email.com> (https://yourwebsite.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/shuffle-array/issues"
+    "url": "https://github.com/kaltmax/shuffle-array/issues"
   },
-  "homepage": "https://github.com/yourusername/shuffle-array#readme",
+  "homepage": "https://github.com/kaltmax/shuffle-array#readme",
   "devDependencies": {
     "jest": "^29.7.0",
     "microbundle": "^0.15.1"
